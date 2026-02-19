@@ -131,17 +131,11 @@ high-level visual features.
 
 # 📊 Dataset
 
-The model is trained on an image dataset structured as:
+The model is trained on an image datasets:
 
-    dataset/
-     ├── class_1/
-     ├── class_2/
-     ├── class_3/
-
-Each folder represents a distinct classification label.
-
-You can replace the dataset with any custom image dataset for
-experimentation.
+    datasets
+     ├── Mnist
+     ├── CIFAR_10
 
 ------------------------------------------------------------------------
 
