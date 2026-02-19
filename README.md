@@ -72,10 +72,9 @@ Pipeline:
 
     CNN_based_classification/
     │
-    ├── CNN_based_classification.ipynb   # Main notebook (training + evaluation)
-    ├── dataset/                         # Image dataset directory (if included)
-    ├── models/                          # Saved model weights (optional)
-    └── README.md                        # Project documentation
+    ├── mnist.ipynb   # Image classification on MNIST dataset
+    ├── CIFAR_10      # Image classification on CIFAR_10 dataset
+    └── README.md     # Project documentation
 
 ------------------------------------------------------------------------
 
